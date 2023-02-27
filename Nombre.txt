@@ -3,6 +3,7 @@ Leonel
 Juan
 Raul
 Luna
+<<<<<<< HEAD
 Nicolas
 Quebin
 Kevin
@@ -12,3 +13,10 @@ error
 erro3
 error2
 jonatan
+=======
+<<<<<<< HEAD
+jonatan
+=======
+Nicolas
+>>>>>>> ed2453470860565cef7833d33c8c6967ee175853
+>>>>>>> d1f2ae7bb5d3904ac1305b2c12216d4ff331a26b
