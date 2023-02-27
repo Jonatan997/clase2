@@ -2,4 +2,8 @@ Soledad
 Leonel
 Raul
 Luna
+<<<<<<< HEAD
 jonatan
+=======
+Nicolas
+>>>>>>> ed2453470860565cef7833d33c8c6967ee175853
